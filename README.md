@@ -1,4 +1,6 @@
 # NanoChiral-ML
+https://github.com/user-attachments/assets/f4e980a0-99a0-4a2a-bfbe-51b7753e646f
+
 **Computational Analysis of 1-D Quantum Confinement in Carbon Nanotubes**
 
 ## 🔬 Overview
